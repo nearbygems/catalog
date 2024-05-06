@@ -1,0 +1,11 @@
+elastic:
+  host: localhost
+  port: 9200
+
+keycloak:
+  url:
+  id:
+  secret:
+  realm:
+  username:
+  password:
